@@ -1,0 +1,138 @@
+@media(max-width:430px) {
+    .header_top_block {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .header_top_block img {
+        width: 98px;
+        height: 97px;
+        margin-bottom: 10px;
+    }
+
+    .header_top_block h1 {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 18px;
+    }
+
+    .quest_section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .quest_section img {
+        width: 330px;
+        height: 100%;
+        margin-bottom: 5px;
+    }
+
+    .quest_block p {
+        font-size: 14px;
+    }
+
+    .content {
+        margin: 0;
+    }
+
+    .content h2 {
+        font-size: 24px;
+        margin: 0;
+    }
+
+    #video {
+        width: 330px;
+        height: 196px;
+        border-radius: 20px;
+        margin: 0;
+    }
+
+    #button {
+        width: 40px;
+        height: 40px;
+        top: 60%;
+        left: 47%;
+    }
+
+    .about_progect h2 {
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .lesson {
+        width: 100%;
+    }
+
+    .lesson p {
+        font-size: 15px;
+        display: flex;
+        width: 95%;
+        padding-left: 20px;
+    }
+
+    .app h2 {
+        font-size: 24px;
+    }
+
+    #android {
+        width: 130px;
+        height: 101px;
+    }
+
+    #icon {
+        width: 87px;
+        height: 87px;
+    }
+
+    .text p {
+        font-size: 15px;
+    }
+
+    .foot h2 {
+        font-size: 24px;
+        padding-top: 15px;
+        padding-bottom: 4px;
+    }
+
+    .social_network img {
+        width: 32px;
+        height: 32px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+
+    .contact1 {
+        flex-direction: column;
+    }
+
+    .contact1 h3 {
+        font-size: 30px;
+        margin: 0px;
+    }
+
+    .contact1 p {
+        font-size: 10px;
+        margin: 0;
+    }
+
+    .social_network_element_1 {
+        order: 2;
+    }
+
+    .menu1 a:hover {
+        color: #fdfdfd;
+    }
+
+
+    .menu {
+        display: none;
+    }
+
+    .mob_phone_question {
+        display: none;
+    }
+}
